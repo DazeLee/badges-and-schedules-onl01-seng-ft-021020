@@ -6,6 +6,6 @@ def batch_badge_creator
 end
   
   
-  
+  "Hello, []! You'll be assignrd to room[]!"
   
   # Write your code here.
