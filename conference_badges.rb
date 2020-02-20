@@ -1,11 +1,13 @@
 def batch_badge_creator
   
   ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus","Matz"]
-  "hello my name is"
+  
+  puts "hello my name is"
   
 end
   
+  def assign_rooms
   
-  "Hello, []! You'll be assignrd to room[]!"
+  puts "Hello, []! You'll be assignrd to room[]!"
   
   # Write your code here.
